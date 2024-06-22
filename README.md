@@ -7,4 +7,4 @@ With a small student-to-instructor ratio, attendees will receive personalized me
 careers in bioengineering, research, and biology. Sponsors of the STEM Summer course include: 
 ![alt text](https://github.com/Ocean-Science-Analytics/bioengineering-course/tree/main/images/All_Logos.png)
 
-To access the course materials, visit the [Bioengineering Course](https://ocean-science-analytics.github.io/bioengineering-course/Bioengineering_Course.html) site. 
+To access the course materials, visit the <a href="https://ocean-science-analytics.github.io/bioengineering-course/Bioengineering_Course.html">Bioengineering Course</a> site. 
