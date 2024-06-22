@@ -1,0 +1,20 @@
+---
+title: "STEM Summer Course: Bioengineering & Instrument Development"
+format: html
+---
+
+## The Art of Soldering
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## How and Where to Solder
+
+-   Embrace the Art of Soldering & Safety
+
+-   Craft Simple Circuits with Hands-on Soldering
+
+## Codes & Circuits Combine!
+
+-   Revisit Coding & Electronics from Day 2
+
+-   Merge Code with Soldered Circuits for Functionality

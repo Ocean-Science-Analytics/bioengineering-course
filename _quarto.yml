@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "STEM Summer Course: Bioengineering & Instrument Development"
+  sidebar:
+    style: "docked"
+    search: true
+    background: dark
+    logo: images/All_Logos.png
+    contents:
+        - text: "Course Overview"
+          file: Bioengineering_Course.qmd
+        - text: "Learning the Basics"
+          file: Fundamentals.qmd
+        - text: "Hands-on with Soldering"
+          file: Soldering.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
