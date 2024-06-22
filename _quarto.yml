@@ -12,10 +12,14 @@ website:
     contents:
         - text: "Course Overview"
           file: Bioengineering_Course.qmd
-        - text: "Learning the Basics"
+        - text: "Day 2: Electricity & Soldering"
           file: Fundamentals.qmd
-        - text: "Hands-on with Soldering"
-          file: Soldering.qmd
+        - text: "Day 3: Arduino & Coding"
+          file: Arduino.qmd
+        - text: "Day 4: Measuring Oxygen"
+          file: Measuring_Oxygen.qmd
+        - text: "Day 5: Course Conclusion"
+          file: Conclusion.qmd
 
 format:
   html:

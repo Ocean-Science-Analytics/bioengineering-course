@@ -7,16 +7,80 @@ format: html
 
 ## About Our Week
 
-This summer course is fabulous. Add in information
+We are excited to have you us this week for our course that combines engineering with practical electrical and programming skills, focused on building sensors for biological applications! In this course, you will be constructing an oxygen biosensor, starting with instrument design and ultimately conducting a scientific experiment with your instrument. We will be working in small groups for the week, and you will be led by a team of engineers and biologists who are developing sensors as part of a National Science Foundation-funded research project. Get ready for a week of engineering fun and hands-on learning!
 
-Please start our pre-survey assessment: LINK
+## Getting Started & Reminders
 
-## Getting Started
+-   We will be in the lab during much of the week, so please remember to wear long pants and close-toed shoes each day!
 
--   Warm Welcome and Fun Icebreaker Activities
+-   We will be reimbursing you for parking each day - be sure to check in with Liz regarding reimbursement.
+
+-   We will be accessing this online resource during the week and using USD computers in the week. Your work is not saved on the computer at the end of the day, so please remember to save your files/work on the provided thumb drive!
+
+-   Day 1: We will be conducting a pre-and post-survey as part of this course. Please complete the following when indicated by your instructors: [Pre-Course Survey](https://forms.gle/CPRniVJ7WStf1Z1w8)
+
+## Week at a Glance
+
+**Day 1: Introduction to Scientific Research**
+
+-   Welcome, Introduction to the Team, Lab Safety, & Icebreaker!
 
 -   Dive into the Scientific Method & Research
 
--   Get Hands-on with Hypotheses, Experiments, and Data Analysis
+-   Team Formation and Meet UCI Research Scientists
 
--   Team Formation for Exciting Week Ahead
+-   Intro to Equipment & Topics
+
+**Day 2: Coding and Electronics Fundamentals**
+
+-   Key Concepts of Electricity
+
+-   Introduction to Circuit Breadboarding
+
+-   Soldering Overview and Practice
+
+-   Circuit Soldering
+
+**Day 3: Combining Coding, Electronics, and Soldering**
+
+-   Introduction Arduino IDE: Code Simple Programs
+
+-   All About Microcontrollers
+
+-   Explore Basic Coding: Variables, Loops, Conditionals
+
+-   Merge Code with Soldered Circuits for Functionality
+
+**Day 4: Building and Testing the Oxygen Sensor**
+
+-   Delve into Oxygen Sensor Components & Design
+
+-   Use of Xiao nRF52 Microcontroller
+
+-   Discussion of Respiration and Experiment Introduction
+
+-   Design of Experiment with Teammate
+
+**Day 5: Oxygen Sensor Discovery and Presentation**
+
+-   Conduct Team Experiment
+
+-   Challenge: Compare your Sensor to the Pros!
+
+-   Present Your Research Findings
+
+-   Discuss Real-world Applications of STEM
+
+## Your Instructors
+
+Instructor Bio & Pic (and email?)
+
+## Course Sponsors & Organizers
+
+This course is supported as part of a National Science Foundation grant awarded to the University of California, Irvine. The contributors to the course include:
+
+![](images/All_Logos.png){fig-align="center"}
+
+Expanding Your Horizons of San Diego is supporting the course implementation and connecting with 10th and 11th-grade students throughout San Diego County through our [EYH Cafe](https://eyhsandiego.org/eyh-cafe/) program. We are so thrilled to be able to connect our participants with this unique opportunity!
+
+![](images/eyh_full_logo_no_net_with_tag.jpg){fig-align="center"}

@@ -42,41 +42,41 @@
   {
     "objectID": "Fundamentals.html",
     "href": "Fundamentals.html",
-    "title": "Coding & Electronics",
+    "title": "Electricity, Circuitry & Soldering",
     "section": "",
     "text": "You will get a lot out of this. Here are resources.",
     "crumbs": [
-      "Learning the Basics"
+      "Day 2: Learning the Basics"
     ]
   },
   {
     "objectID": "Fundamentals.html#understanding-the-basics",
     "href": "Fundamentals.html#understanding-the-basics",
-    "title": "Coding & Electronics",
+    "title": "Electricity, Circuitry & Soldering",
     "section": "",
     "text": "You will get a lot out of this. Here are resources.",
     "crumbs": [
-      "Learning the Basics"
+      "Day 2: Learning the Basics"
     ]
   },
   {
     "objectID": "Fundamentals.html#coding-fundamentals",
     "href": "Fundamentals.html#coding-fundamentals",
-    "title": "Coding & Electronics",
+    "title": "Electricity, Circuitry & Soldering",
     "section": "Coding Fundamentals",
     "text": "Coding Fundamentals\n\nExplore Basic Coding: Variables, Loops, Conditionals\nGet Creative with Arduino IDE: Code Simple Programs\nIlluminate Ideas: Control LEDs with Code",
     "crumbs": [
-      "Learning the Basics"
+      "Day 2: Learning the Basics"
     ]
   },
   {
     "objectID": "Fundamentals.html#electronics-fundamentals",
     "href": "Fundamentals.html#electronics-fundamentals",
-    "title": "Coding & Electronics",
+    "title": "Electricity, Circuitry & Soldering",
     "section": "Electronics Fundamentals",
     "text": "Electronics Fundamentals\n\nUnveil the World of Electronics & Breadboarding\n\n\nExercise 1\n\n\nExercise 2",
     "crumbs": [
-      "Learning the Basics"
+      "Day 2: Learning the Basics"
     ]
   },
   {
@@ -94,7 +94,7 @@
     "href": "Bioengineering_Course.html#about-our-week",
     "title": "STEM Summer Course: Bioengineering & Instrument Development",
     "section": "About Our Week",
-    "text": "About Our Week\nThis summer course is fabulous. Add in information\nPlease start our pre-survey assessment: LINK",
+    "text": "About Our Week\nWe are excited to have you us this week for our course that combines engineering with practical electrical and programming skills, focused on building sensors for biological applications! In this course, you will be constructing an oxygen biosensor, starting with instrument design and ultimately conducting a scientific experiment with your instrument. We will be working in small groups for the week, and you will be led by a team of engineers and biologists who are developing sensors as part of a National Science Foundation-funded research project. Get ready for a week of engineering fun and hands-on learning!",
     "crumbs": [
       "Course Overview"
     ]
@@ -129,5 +129,73 @@
     "title": "Course Overview",
     "section": "Getting Started",
     "text": "Getting Started\n\nWarm Welcome and Fun Icebreaker Activities\nDive into the Scientific Method & Research\nGet Hands-on with Hypotheses, Experiments, and Data Analysis\nTeam Formation for Exciting Week Ahead"
+  },
+  {
+    "objectID": "Bioengineering_Course.html#getting-started-reminders",
+    "href": "Bioengineering_Course.html#getting-started-reminders",
+    "title": "STEM Summer Course: Bioengineering & Instrument Development",
+    "section": "Getting Started & Reminders",
+    "text": "Getting Started & Reminders\n\nWe will be in the lab during much of the week, so please remember to wear long pants and close-toed shoes each day!\nWe will be reimbursing you for parking each day - be sure to check in with Liz regarding reimbursement.\nWe will be accessing this online resource during the week and using USD computers in the week. Your work is not saved on the computer at the end of the day, so please remember to save your files/work on the provided thumb drive!\nDay 1: We will be conducting a pre-and post-survey as part of this course. Please complete the following when indicated by your instructors: Pre-Course Survey",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "Bioengineering_Course.html#week-at-a-glance",
+    "href": "Bioengineering_Course.html#week-at-a-glance",
+    "title": "STEM Summer Course: Bioengineering & Instrument Development",
+    "section": "Week at a Glance",
+    "text": "Week at a Glance\nDay 1: Introduction to Scientific Research\n\nWelcome, Introduction to the Team, Lab Safety, & Icebreaker!\nDive into the Scientific Method & Research\nTeam Formation and Meet UCI Research Scientists\nIntro to Equipment & Topics\n\nDay 2: Coding and Electronics Fundamentals\n\nKey Concepts of Electricity\nIntroduction to Circuit Breadboarding\nSoldering Overview and Practice\nCircuit Soldering\n\nDay 3: Combining Coding, Electronics, and Soldering\n\nIntroduction Arduino IDE: Code Simple Programs\nAll About Microcontrollers\nExplore Basic Coding: Variables, Loops, Conditionals\nMerge Code with Soldered Circuits for Functionality\n\nDay 4: Building and Testing the Oxygen Sensor\n\nDelve into Oxygen Sensor Components & Design\nUse of Xiao nRF52 Microcontroller\nDiscussion of Respiration and Experiment Introduction\nDesign of Experiment with Teammate\n\nDay 5: Oxygen Sensor Discovery and Presentation\n\nConduct Team Experiment\nChallenge: Compare your Sensor to the Pros!\nPresent Your Research Findings\nDiscuss Real-world Applications of STEM",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "Bioengineering_Course.html#your-instructors",
+    "href": "Bioengineering_Course.html#your-instructors",
+    "title": "STEM Summer Course: Bioengineering & Instrument Development",
+    "section": "Your Instructors",
+    "text": "Your Instructors\nInstructor Bio & Pic (and email?)",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "Bioengineering_Course.html#course-sponsors-organizers",
+    "href": "Bioengineering_Course.html#course-sponsors-organizers",
+    "title": "STEM Summer Course: Bioengineering & Instrument Development",
+    "section": "Course Sponsors & Organizers",
+    "text": "Course Sponsors & Organizers\nThis course is supported as part of a National Science Foundation grant awarded to the University of California, Irvine. The contributors to the course include:\n\n\n\n\n\nExpanding Your Horizons of San Diego is supporting the course implementation and connecting with 10th and 11th-grade students throughout San Diego County through our EYH Cafe program. We are so thrilled to be able to connect our participants with this unique opportunity!",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "Arduino.html",
+    "href": "Arduino.html",
+    "title": "Microcontroller Use with Arduino",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Arduino.html#the-art-of-soldering",
+    "href": "Arduino.html#the-art-of-soldering",
+    "title": "Microcontroller Use with Arduino",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Arduino.html#how-and-where-to-solder",
+    "href": "Arduino.html#how-and-where-to-solder",
+    "title": "Microcontroller Use with Arduino",
+    "section": "How and Where to Solder",
+    "text": "How and Where to Solder\n\nEmbrace the Art of Soldering & Safety\nCraft Simple Circuits with Hands-on Soldering"
+  },
+  {
+    "objectID": "Arduino.html#codes-circuits-combine",
+    "href": "Arduino.html#codes-circuits-combine",
+    "title": "Microcontroller Use with Arduino",
+    "section": "Codes & Circuits Combine!",
+    "text": "Codes & Circuits Combine!\n\nRevisit Coding & Electronics from Day 2\nMerge Code with Soldered Circuits for Functionality"
   }
 ]
