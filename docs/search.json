@@ -197,5 +197,65 @@
     "title": "Microcontroller Use with Arduino",
     "section": "Codes & Circuits Combine!",
     "text": "Codes & Circuits Combine!\n\nRevisit Coding & Electronics from Day 2\nMerge Code with Soldered Circuits for Functionality"
+  },
+  {
+    "objectID": "Intro.html",
+    "href": "Intro.html",
+    "title": "Introduction to Scientific Method",
+    "section": "",
+    "text": "IIBR Instrumentation: Field-deployable multi-parameter lactate probe to enable new animal physiology discoveries",
+    "crumbs": [
+      "Day 1: Introduction"
+    ]
+  },
+  {
+    "objectID": "Intro.html#an-introduction-to-the-study",
+    "href": "Intro.html#an-introduction-to-the-study",
+    "title": "Introduction to Scientific Method",
+    "section": "",
+    "text": "IIBR Instrumentation: Field-deployable multi-parameter lactate probe to enable new animal physiology discoveries",
+    "crumbs": [
+      "Day 1: Introduction"
+    ]
+  },
+  {
+    "objectID": "Intro.html#the-scientific-method",
+    "href": "Intro.html#the-scientific-method",
+    "title": "Introduction to Scientific Method",
+    "section": "The Scientific Method",
+    "text": "The Scientific Method\nThe scientific method is a systematic process used to investigate phenomena, acquire new knowledge, or correct and integrate previous knowledge. It involves making observations, forming a hypothesis, conducting experiments, analyzing data, and drawing conclusions. This method is iterative and cyclical, as each cycle of experimentation leads to new hypotheses and further testing, continuously refining and expanding scientific understanding. Its purpose is to ensure objectivity and reproducibility in scientific research. We will be introducing this important foundational information on the first day of the course. Should you need a reminder, you can refer to this presentation on the Scientific Method.",
+    "crumbs": [
+      "Day 1: Introduction"
+    ]
+  },
+  {
+    "objectID": "Intro.html#lab-safety",
+    "href": "Intro.html#lab-safety",
+    "title": "Introduction to Scientific Method",
+    "section": "Lab Safety",
+    "text": "Lab Safety\nLab safety is essential to prevent accidents and ensure a safe working environment by following proper protocols, using appropriate protective equipment, and being aware of potential hazards. Adhering to lab safety guidelines protects both personnel and the integrity of the experiments. We will review lab safety at the start of this course. For reference, you can find a list of USD lab safety protocols below. In addition to these, we request you wear long pants every day given we will be regularly soldering.\nUSD Lab Safety\nAcknowledge your review of lab safety protocols",
+    "crumbs": [
+      "Day 1: Introduction"
+    ]
+  },
+  {
+    "objectID": "Intro.html#teams-tables",
+    "href": "Intro.html#teams-tables",
+    "title": "Introduction to Scientific Method",
+    "section": "Teams & Tables",
+    "text": "Teams & Tables\nThis week we will be working in teams of two, and organized at specific tables. These groups are intentional as you all have a great diversity of interests and experiences. As we find out teammates at the start of the week, please decide on a table team name that we can use for identifying groups throughout the week:\nName Your Table",
+    "crumbs": [
+      "Day 1: Introduction"
+    ]
+  },
+  {
+    "objectID": "Intro.html#intro-to-stats",
+    "href": "Intro.html#intro-to-stats",
+    "title": "Introduction to Scientific Method",
+    "section": "Intro to Stats",
+    "text": "Intro to Stats\nBasic statistics, like calculating averages and understanding variability, help us compare different groups and draw meaningful conclusions. Learning these simple statistical steps in tools like R is important because it allows us to analyze data accurately and make informed decisions in science and everyday life. This week we will use this statistical tool to evaluate our results, and to compare measurements for our experiments. Please connect to the Posit Cloud workbook below and follow along with the instructor.\nIntroductory Statistics and Data Visualization in R",
+    "crumbs": [
+      "Day 1: Introduction"
+    ]
   }
 ]

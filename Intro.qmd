@@ -1,0 +1,32 @@
+---
+title: "Introduction to Scientific Method"
+format: html
+---
+
+## An Introduction to the Study
+
+IIBR Instrumentation: Field-deployable multi-parameter lactate probe to enable new animal physiology discoveries
+
+## The Scientific Method
+
+The scientific method is a systematic process used to investigate phenomena, acquire new knowledge, or correct and integrate previous knowledge. It involves making observations, forming a hypothesis, conducting experiments, analyzing data, and drawing conclusions. This method is iterative and cyclical, as each cycle of experimentation leads to new hypotheses and further testing, continuously refining and expanding scientific understanding. Its purpose is to ensure objectivity and reproducibility in scientific research. We will be introducing this important foundational information on the first day of the course. Should you need a reminder, you can refer to this presentation on the [Scientific Method](https://youtu.be/7rd7hFADp-s?si=O3Hb_QdIpe1SSMf3).
+
+## Lab Safety
+
+Lab safety is essential to prevent accidents and ensure a safe working environment by following proper protocols, using appropriate protective equipment, and being aware of potential hazards. Adhering to lab safety guidelines protects both personnel and the integrity of the experiments. We will review lab safety at the start of this course. For reference, you can find a list of USD lab safety protocols below. In addition to these, we request you wear long pants every day given we will be regularly soldering.
+
+[USD Lab Safety](https://drive.google.com/file/d/17I1qIzwrWqkbO9W32jFespz-pQefj83V/view?usp=sharing)
+
+[Acknowledge your review of lab safety protocols](https://docs.google.com/spreadsheets/d/10Ip3aj9NIIxbYfEaEMdbpXvtoPozemVyHy_qqK7O-r0/edit?usp=sharing)
+
+## Teams & Tables
+
+This week we will be working in teams of two, and organized at specific tables. These groups are intentional as you all have a great diversity of interests and experiences. As we find out teammates at the start of the week, please decide on a table team name that we can use for identifying groups throughout the week:
+
+Name Your Table
+
+## Intro to Stats
+
+Basic statistics, like calculating averages and understanding variability, help us compare different groups and draw meaningful conclusions. Learning these simple statistical steps in tools like R is important because it allows us to analyze data accurately and make informed decisions in science and everyday life. This week we will use this statistical tool to evaluate our results, and to compare measurements for our experiments. Please connect to the Posit Cloud workbook below and follow along with the instructor.
+
+Introductory Statistics and Data Visualization in R

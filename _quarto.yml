@@ -12,6 +12,8 @@ website:
     contents:
         - text: "Course Overview"
           file: Bioengineering_Course.qmd
+        - text: "Day 1: Introduction"
+          file: Intro.qmd
         - text: "Day 2: Electricity & Soldering"
           file: Fundamentals.qmd
         - text: "Day 3: Arduino & Coding"
