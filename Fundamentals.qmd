@@ -3,22 +3,36 @@ title: "Electricity, Circuitry & Soldering"
 format: html
 ---
 
-## Understanding the Basics
+## Key Concepts of Electricity and Circuit Breadboarding
 
-You will get a lot out of this. Here are resources.
+In this exercise, you will gain a deeper understanding of key electricity concepts and practical experience in circuit breadboarding. By building and testing electrical circuits, you will enhance your problem-solving skills and ability to troubleshoot real-world electrical systems. This hands-on approach will solidify your theoretical knowledge and prepare you for more advanced applications.
 
-## Coding Fundamentals
+Activity Resources:
 
--   Explore Basic Coding: Variables, Loops, Conditionals
+-   
 
--   Get Creative with Arduino IDE: Code Simple Programs
+References:
 
--   Illuminate Ideas: Control LEDs with Code
+-   [Lessons in Electric Circuits - Volume 1 (Direct Currents)](https://drive.google.com/file/d/1-6GONjipstfZnax4S7n-jtw5l21KB8DW/view?usp=sharing)
 
-## Electronics Fundamentals
+-   [Lessons in Electric Circuits - Volume 2 (Alternating Currents)](https://drive.google.com/file/d/1-CiZwUJ8iPuR9PHIqkD3EI9aoeJhZqUX/view?usp=sharing)
 
--   Unveil the World of Electronics & Breadboarding
+-   [Lessons in Electric Circuits - Volume 3 (Semiconductors)](https://drive.google.com/file/d/1-3v86ZMMhd4PcESodgVAMP5dgVnHc1nW/view?usp=sharing)
 
-### Exercise 1
+-   [Lessons in Electric Circuits - Volume 4 (Digital)](https://drive.google.com/file/d/1-ASpi7dRE1A1DhnkM7tvD6Hjr0da2l9-/view?usp=sharing)
 
-### Exercise 2
+-   [Lessons in Electric Circuits - Volume 5 (Reference)](https://drive.google.com/file/d/1-4Nh-YwfZNhjLsvbMERC-skKQuvwY_H3/view?usp=sharing)
+
+## Fundamental Techniques of Soldering
+
+In this exercise, you will gain fundamental techniques of soldering, with a focus on proper safety procedures and hands-on practice to reinforce your skills in circuit assembly. You will learn to create reliable electrical connections, essential for building and maintaining electronic devices. This practical experience will prepare you for more complex projects and enhance your technical proficiency.
+
+Activity Resources:
+
+-   TBD
+
+-   [Common Soldering Problems](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems)
+
+References:
+
+-   [Guide to Excellent Soldering](https://drive.google.com/file/d/1-EXrfBV_2KQrlBkJAngXC0pCbj3Av3Vi/view?usp=sharing)

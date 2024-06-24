@@ -23,10 +23,10 @@ Lab safety is essential to prevent accidents and ensure a safe working environme
 
 This week we will be working in teams of two, and organized at specific tables. These groups are intentional as you all have a great diversity of interests and experiences. As we find out teammates at the start of the week, please decide on a table team name that we can use for identifying groups throughout the week:
 
-Name Your Table
+[Name Your Table](https://docs.google.com/spreadsheets/d/1zzjXFLstmnsgxur7ZAoa9zL3q6JPRqo-poPXuvqxT-o/edit?usp=sharing)
 
 ## Intro to Stats
 
-Basic statistics, like calculating averages and understanding variability, help us compare different groups and draw meaningful conclusions. Learning these simple statistical steps in tools like R is important because it allows us to analyze data accurately and make informed decisions in science and everyday life. This week we will use this statistical tool to evaluate our results, and to compare measurements for our experiments. Please connect to the Posit Cloud workbook below and follow along with the instructor.
+Basic statistics, including calculating averages and understanding variability, help us compare different groups and draw meaningful conclusions. Learning these simple statistical steps in tools like R is important because it allows us to analyze data accurately and make informed decisions in science and everyday life. This week we will use this statistical tool to evaluate our results and to compare measurements for our experiments. Please connect to the Posit Cloud workbook below and follow along with the instructor.
 
-Introductory Statistics and Data Visualization in R
+[Introductory Statistics and Data Visualization in R](https://posit.cloud/spaces/526240/join?access_code=B8jdRv763XNAN_3NmOrr2Agun73R5beeUH-eOtQz)

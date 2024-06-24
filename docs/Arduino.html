@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Microcontroller Use with Arduino</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Arduino.html">Day 3: Arduino &amp; Coding</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -113,14 +113,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Fundamentals.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Day 2: Learning the Basics</span></a>
+  <a href="./Intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 1: Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Soldering.qmd" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Day 3: Arduino &amp; Microcontroller</span></a>
+  <a href="./Fundamentals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Day 2: Electricity &amp; Soldering</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Arduino.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Day 3: Arduino &amp; Coding</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -145,9 +151,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-art-of-soldering" id="toc-the-art-of-soldering" class="nav-link active" data-scroll-target="#the-art-of-soldering">The Art of Soldering</a></li>
-  <li><a href="#how-and-where-to-solder" id="toc-how-and-where-to-solder" class="nav-link" data-scroll-target="#how-and-where-to-solder">How and Where to Solder</a></li>
-  <li><a href="#codes-circuits-combine" id="toc-codes-circuits-combine" class="nav-link" data-scroll-target="#codes-circuits-combine">Codes &amp; Circuits Combine!</a></li>
+  <li><a href="#using-the-xiao-nrf52-microcontroller-with-arduino-ide" id="toc-using-the-xiao-nrf52-microcontroller-with-arduino-ide" class="nav-link active" data-scroll-target="#using-the-xiao-nrf52-microcontroller-with-arduino-ide">Using the Xiao nRF52 Microcontroller with Arduino IDE</a>
+  <ul class="collapse">
+  <li><a href="#activity-resources" id="toc-activity-resources" class="nav-link" data-scroll-target="#activity-resources">Activity Resources:</a></li>
+  </ul></li>
+  <li><a href="#implementing-serial-communication-with-the-xiao-nrf52-microcontroller" id="toc-implementing-serial-communication-with-the-xiao-nrf52-microcontroller" class="nav-link" data-scroll-target="#implementing-serial-communication-with-the-xiao-nrf52-microcontroller">Implementing Serial Communication with the Xiao nRF52 Microcontroller</a>
+  <ul class="collapse">
+  <li><a href="#activity-resources-1" id="toc-activity-resources-1" class="nav-link" data-scroll-target="#activity-resources-1">Activity Resources:</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -173,25 +184,66 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="the-art-of-soldering" class="level2">
-<h2 class="anchored" data-anchor-id="the-art-of-soldering">The Art of Soldering</h2>
-<p>Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
+<section id="using-the-xiao-nrf52-microcontroller-with-arduino-ide" class="level2">
+<h2 class="anchored" data-anchor-id="using-the-xiao-nrf52-microcontroller-with-arduino-ide">Using the Xiao nRF52 Microcontroller with Arduino IDE</h2>
+<p>Today you will learn how to use the Xiao nRF52 microcontroller to program in Arduino IDE and control the circuits you built in the previous lesson. You will understand how coding integrates with hardware to create interactive electronic projects. This hands-on experience will enhance your ability to design and implement complex electronic systems.</p>
+<section id="activity-resources" class="level3">
+<h3 class="anchored" data-anchor-id="activity-resources">Activity Resources:</h3>
+<section id="testing-your-setup" class="level4">
+<h4 class="anchored" data-anchor-id="testing-your-setup">Testing your setup:</h4>
+<p><img src="images/clipboard-892098142.png" class="img-fluid"></p>
+<p><img src="images/clipboard-1555525235.png" class="img-fluid"></p>
+<p>(https://wiki.seeedstudio.com/XIAO_BLE/)</p>
 </section>
-<section id="how-and-where-to-solder" class="level2">
-<h2 class="anchored" data-anchor-id="how-and-where-to-solder">How and Where to Solder</h2>
+<section id="coding-pin-numbers" class="level4">
+<h4 class="anchored" data-anchor-id="coding-pin-numbers">Coding Pin Numbers</h4>
+<p><img src="images/clipboard-447806282.png" class="img-fluid"></p>
+</section>
+<section id="complex-patterns-with-leds" class="level4">
+<h4 class="anchored" data-anchor-id="complex-patterns-with-leds">Complex Patterns with LEDs</h4>
+<p><img src="images/clipboard-2224101021.png" class="img-fluid"></p>
+</section>
+<section id="reading-data-from-the-sensor" class="level4">
+<h4 class="anchored" data-anchor-id="reading-data-from-the-sensor">Reading Data from the Sensor</h4>
+<p><img src="images/clipboard-4124862567.png" class="img-fluid"></p>
+</section>
+<section id="integrating-sensory-data" class="level4">
+<h4 class="anchored" data-anchor-id="integrating-sensory-data">Integrating Sensory Data</h4>
+<p><img src="images/clipboard-3401071057.png" class="img-fluid"></p>
+<p>References:</p>
 <ul>
-<li><p>Embrace the Art of Soldering &amp; Safety</p></li>
-<li><p>Craft Simple Circuits with Hands-on Soldering</p></li>
+<li><p><a href="https://drive.google.com/file/d/1-EXrfBV_2KQrlBkJAngXC0pCbj3Av3Vi/view?usp=sharing">Arduino Reference</a></p></li>
+<li><p><a href="https://drive.google.com/file/d/1-Ef22HYt6v8VGEQL8gFSA6j49KRHS1k6/view?usp=sharing">Arduino Cheat Sheet</a></p></li>
+<li><p><a href="https://drive.google.com/file/d/1-TW9a9jX84PsyD05TKmAj7H6D8YIgLT6/view?usp=sharing">Arduino Common Functions</a></p></li>
+<li><p><a href="https://drive.google.com/file/d/1-lcP2ke_6UlniCDVIoa6cx15o-KFU05M/view?usp=sharing">Getting Started with the Xiao nRF52 Microcontroller</a></p></li>
 </ul>
 </section>
-<section id="codes-circuits-combine" class="level2">
-<h2 class="anchored" data-anchor-id="codes-circuits-combine">Codes &amp; Circuits Combine!</h2>
+</section>
+</section>
+<section id="implementing-serial-communication-with-the-xiao-nrf52-microcontroller" class="level2">
+<h2 class="anchored" data-anchor-id="implementing-serial-communication-with-the-xiao-nrf52-microcontroller">Implementing Serial Communication with the Xiao nRF52 Microcontroller</h2>
+<p>In this exercise, you will learn how to implement serial communication with the Xiao nRF52 microcontroller to send commands and receive responses. You will see a demonstration of real-time interaction between a computer and a microcontroller using a command-and-response framework. This will enhance your understanding of communication protocols and their applications in interactive electronic projects.</p>
+<section id="activity-resources-1" class="level3">
+<h3 class="anchored" data-anchor-id="activity-resources-1">Activity Resources:</h3>
+<section id="using-serial.print-and-serial.println-to-send-data" class="level4">
+<h4 class="anchored" data-anchor-id="using-serial.print-and-serial.println-to-send-data">Using Serial.print and Serial.println to Send Data</h4>
+<p><img src="images/clipboard-915897832.png" class="img-fluid"></p>
+</section>
+<section id="interactive-control-commands" class="level4">
+<h4 class="anchored" data-anchor-id="interactive-control-commands">Interactive Control Commands</h4>
+<p><img src="images/clipboard-2423246519.png" class="img-fluid"></p>
+<p>Handling Multiple Types of Input</p>
+<p><img src="images/clipboard-835734821.png" class="img-fluid"></p>
+<p>Alternating Structure of Sending Values via Serial and Uninterrupted Reading</p>
+<p><img src="images/clipboard-220853159.png" class="img-fluid" width="758"></p>
+<p>References:</p>
 <ul>
-<li><p>Revisit Coding &amp; Electronics from Day 2</p></li>
-<li><p>Merge Code with Soldered Circuits for Functionality</p></li>
+<li></li>
 </ul>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

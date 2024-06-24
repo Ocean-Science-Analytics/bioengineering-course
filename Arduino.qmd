@@ -3,18 +3,68 @@ title: "Microcontroller Use with Arduino"
 format: html
 ---
 
-## The Art of Soldering
+## Using the Xiao nRF52 Microcontroller with Arduino IDE
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Today you will learn how to use the Xiao nRF52 microcontroller to program in Arduino IDE and control the circuits you built in the previous lesson. You will understand how coding integrates with hardware to create interactive electronic projects. This hands-on experience will enhance your ability to design and implement complex electronic systems.
 
-## How and Where to Solder
+### Activity Resources: 
 
--   Embrace the Art of Soldering & Safety
+#### Testing your setup: 
 
--   Craft Simple Circuits with Hands-on Soldering
+![](images/clipboard-892098142.png)
 
-## Codes & Circuits Combine!
+![](images/clipboard-1555525235.png)
 
--   Revisit Coding & Electronics from Day 2
+(https://wiki.seeedstudio.com/XIAO_BLE/)
 
--   Merge Code with Soldered Circuits for Functionality
+#### Coding Pin Numbers
+
+![](images/clipboard-447806282.png)
+
+#### Complex Patterns with LEDs
+
+![](images/clipboard-2224101021.png)
+
+#### Reading Data from the Sensor
+
+![](images/clipboard-4124862567.png)
+
+#### Integrating Sensory Data
+
+![](images/clipboard-3401071057.png)
+
+References:
+
+-   [Arduino Reference](https://drive.google.com/file/d/1-EXrfBV_2KQrlBkJAngXC0pCbj3Av3Vi/view?usp=sharing)
+
+-   [Arduino Cheat Sheet](https://drive.google.com/file/d/1-Ef22HYt6v8VGEQL8gFSA6j49KRHS1k6/view?usp=sharing)
+
+-   [Arduino Common Functions](https://drive.google.com/file/d/1-TW9a9jX84PsyD05TKmAj7H6D8YIgLT6/view?usp=sharing)
+
+-   [Getting Started with the Xiao nRF52 Microcontroller](https://drive.google.com/file/d/1-lcP2ke_6UlniCDVIoa6cx15o-KFU05M/view?usp=sharing)
+
+## Implementing Serial Communication with the Xiao nRF52 Microcontroller
+
+In this exercise, you will learn how to implement serial communication with the Xiao nRF52 microcontroller to send commands and receive responses. You will see a demonstration of real-time interaction between a computer and a microcontroller using a command-and-response framework. This will enhance your understanding of communication protocols and their applications in interactive electronic projects.
+
+### Activity Resources: 
+
+#### Using Serial.print and Serial.println to Send Data
+
+![](images/clipboard-915897832.png)
+
+#### Interactive Control Commands
+
+![](images/clipboard-2423246519.png)
+
+Handling Multiple Types of Input
+
+![](images/clipboard-835734821.png)
+
+Alternating Structure of Sending Values via Serial and Uninterrupted Reading
+
+![](images/clipboard-220853159.png){width="758"}
+
+References:
+
+-   

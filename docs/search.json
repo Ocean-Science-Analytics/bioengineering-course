@@ -44,9 +44,9 @@
     "href": "Fundamentals.html",
     "title": "Electricity, Circuitry & Soldering",
     "section": "",
-    "text": "You will get a lot out of this. Here are resources.",
+    "text": "In this exercise, you will gain a deeper understanding of key electricity concepts and practical experience in circuit breadboarding. By building and testing electrical circuits, you will enhance your problem-solving skills and ability to troubleshoot real-world electrical systems. This hands-on approach will solidify your theoretical knowledge and prepare you for more advanced applications.\nActivity Resources:\n\n\n\nReferences:\n\nLessons in Electric Circuits - Volume 1 (Direct Currents)\nLessons in Electric Circuits - Volume 2 (Alternating Currents)\nLessons in Electric Circuits - Volume 3 (Semiconductors)\nLessons in Electric Circuits - Volume 4 (Digital)\nLessons in Electric Circuits - Volume 5 (Reference)",
     "crumbs": [
-      "Day 2: Learning the Basics"
+      "Day 2: Electricity & Soldering"
     ]
   },
   {
@@ -175,7 +175,10 @@
     "href": "Arduino.html",
     "title": "Microcontroller Use with Arduino",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Today you will learn how to use the Xiao nRF52 microcontroller to program in Arduino IDE and control the circuits you built in the previous lesson. You will understand how coding integrates with hardware to create interactive electronic projects. This hands-on experience will enhance your ability to design and implement complex electronic systems.\n\n\n\n\n\n\n(https://wiki.seeedstudio.com/XIAO_BLE/)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReferences:\n\nArduino Reference\nArduino Cheat Sheet\nArduino Common Functions\nGetting Started with the Xiao nRF52 Microcontroller",
+    "crumbs": [
+      "Day 3: Arduino & Coding"
+    ]
   },
   {
     "objectID": "Arduino.html#the-art-of-soldering",
@@ -253,9 +256,79 @@
     "href": "Intro.html#intro-to-stats",
     "title": "STEM Summer Course: Bioengineering & Instrument Development",
     "section": "Intro to Stats",
-    "text": "Intro to Stats\nBasic statistics, like calculating averages and understanding variability, help us compare different groups and draw meaningful conclusions. Learning these simple statistical steps in tools like R is important because it allows us to analyze data accurately and make informed decisions in science and everyday life. This week we will use this statistical tool to evaluate our results, and to compare measurements for our experiments. Please connect to the Posit Cloud workbook below and follow along with the instructor.\nIntroductory Statistics and Data Visualization in R",
+    "text": "Intro to Stats\nBasic statistics, including calculating averages and understanding variability, help us compare different groups and draw meaningful conclusions. Learning these simple statistical steps in tools like R is important because it allows us to analyze data accurately and make informed decisions in science and everyday life. This week we will use this statistical tool to evaluate our results and to compare measurements for our experiments. Please connect to the Posit Cloud workbook below and follow along with the instructor.\nIntroductory Statistics and Data Visualization in R",
     "crumbs": [
       "Day 1: Introduction"
+    ]
+  },
+  {
+    "objectID": "Measuring_Oxygen.html",
+    "href": "Measuring_Oxygen.html",
+    "title": "Oxygen Measurement with Your Instrument",
+    "section": "",
+    "text": "Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.\n\n\n\n\n\nReferences:",
+    "crumbs": [
+      "Day 4: Measuring Oxygen"
+    ]
+  },
+  {
+    "objectID": "Measuring_Oxygen.html#measuring-oxygen-levels-with-xiao-nrf52-and-porphyrin-dyes",
+    "href": "Measuring_Oxygen.html#measuring-oxygen-levels-with-xiao-nrf52-and-porphyrin-dyes",
+    "title": "Oxygen Measurement with Your Instrument",
+    "section": "",
+    "text": "Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.\n\n\n\n\n\nReferences:",
+    "crumbs": [
+      "Day 4: Measuring Oxygen"
+    ]
+  },
+  {
+    "objectID": "Measuring_Oxygen.html#project-development-implementation",
+    "href": "Measuring_Oxygen.html#project-development-implementation",
+    "title": "Oxygen Measurement with Your Instrument",
+    "section": "Project Development & Implementation",
+    "text": "Project Development & Implementation\nIn this project, you will develop a system to measure the oxygen consumption of mealworms. You will design, implement, and report on your study to the group.\nActivity Resources:\n\nAnimal Energetics\n\nReferences:",
+    "crumbs": [
+      "Day 4: Measuring Oxygen"
+    ]
+  },
+  {
+    "objectID": "Fundamentals.html#key-concepts-of-electricity-and-circuit-breadboarding",
+    "href": "Fundamentals.html#key-concepts-of-electricity-and-circuit-breadboarding",
+    "title": "Electricity, Circuitry & Soldering",
+    "section": "",
+    "text": "In this exercise, you will gain a deeper understanding of key electricity concepts and practical experience in circuit breadboarding. By building and testing electrical circuits, you will enhance your problem-solving skills and ability to troubleshoot real-world electrical systems. This hands-on approach will solidify your theoretical knowledge and prepare you for more advanced applications.\nActivity Resources:\n\n\n\nReferences:\n\nLessons in Electric Circuits - Volume 1 (Direct Currents)\nLessons in Electric Circuits - Volume 2 (Alternating Currents)\nLessons in Electric Circuits - Volume 3 (Semiconductors)\nLessons in Electric Circuits - Volume 4 (Digital)\nLessons in Electric Circuits - Volume 5 (Reference)",
+    "crumbs": [
+      "Day 2: Electricity & Soldering"
+    ]
+  },
+  {
+    "objectID": "Fundamentals.html#fundamental-techniques-of-soldering",
+    "href": "Fundamentals.html#fundamental-techniques-of-soldering",
+    "title": "Electricity, Circuitry & Soldering",
+    "section": "Fundamental Techniques of Soldering",
+    "text": "Fundamental Techniques of Soldering\nIn this exercise, you will gain fundamental techniques of soldering, with a focus on proper safety procedures and hands-on practice to reinforce your skills in circuit assembly. You will learn to create reliable electrical connections, essential for building and maintaining electronic devices. This practical experience will prepare you for more complex projects and enhance your technical proficiency.\nActivity Resources:\n\nTBD\nCommon Soldering Problems\n\nReferences:\n\nGuide to Excellent Soldering",
+    "crumbs": [
+      "Day 2: Electricity & Soldering"
+    ]
+  },
+  {
+    "objectID": "Arduino.html#using-the-xiao-nrf52-microcontroller-with-arduino-ide",
+    "href": "Arduino.html#using-the-xiao-nrf52-microcontroller-with-arduino-ide",
+    "title": "Microcontroller Use with Arduino",
+    "section": "",
+    "text": "Today you will learn how to use the Xiao nRF52 microcontroller to program in Arduino IDE and control the circuits you built in the previous lesson. You will understand how coding integrates with hardware to create interactive electronic projects. This hands-on experience will enhance your ability to design and implement complex electronic systems.\n\n\n\n\n\n\n(https://wiki.seeedstudio.com/XIAO_BLE/)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReferences:\n\nArduino Reference\nArduino Cheat Sheet\nArduino Common Functions\nGetting Started with the Xiao nRF52 Microcontroller",
+    "crumbs": [
+      "Day 3: Arduino & Coding"
+    ]
+  },
+  {
+    "objectID": "Arduino.html#implementing-serial-communication-with-the-xiao-nrf52-microcontroller",
+    "href": "Arduino.html#implementing-serial-communication-with-the-xiao-nrf52-microcontroller",
+    "title": "Microcontroller Use with Arduino",
+    "section": "Implementing Serial Communication with the Xiao nRF52 Microcontroller",
+    "text": "Implementing Serial Communication with the Xiao nRF52 Microcontroller\nIn this exercise, you will learn how to implement serial communication with the Xiao nRF52 microcontroller to send commands and receive responses. You will see a demonstration of real-time interaction between a computer and a microcontroller using a command-and-response framework. This will enhance your understanding of communication protocols and their applications in interactive electronic projects.\n\nActivity Resources:\n\nUsing Serial.print and Serial.println to Send Data\n\n\n\nInteractive Control Commands\n\nHandling Multiple Types of Input\n\nAlternating Structure of Sending Values via Serial and Uninterrupted Reading\n\nReferences:",
+    "crumbs": [
+      "Day 3: Arduino & Coding"
     ]
   }
 ]

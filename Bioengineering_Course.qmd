@@ -3,7 +3,7 @@ title: ""
 format: html
 ---
 
-## ![](images/logoBlueFull.png){width="588"}
+![](images/logoBlueFull.png){width="588"}
 
 ## About Our Week
 
