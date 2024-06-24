@@ -5,7 +5,9 @@ format: html
 
 ## An Introduction to the Study
 
-IIBR Instrumentation: Field-deployable multi-parameter lactate probe to enable new animal physiology discoveries
+This summer course is based on a National Science Foundation-funded research project entitled "IIBR Instrumentation: Field-deployable multi-parameter lactate probe to enable new animal physiology discoveries." Led by your UCI instructors, this project will create a small, flexible probe that can measure important body chemicals like lactate, glucose, and oxygen continuously in animals. Lactate is a key chemical in our bodies that helps with activities like exercise and stress, but too much can indicate problems like muscle fatigue or disease. The new probe will use special technology to measure these chemicals accurately and in real-time, even in freely-moving animals. Researchers will use this probe to study animals both in the lab and in the wild, providing a better understanding of how these chemicals change during different activities and conditions.
+
+For additional information on the project, review the [project summary](https://drive.google.com/file/d/1_7JEyu0JBSDDSDaJqNbTIdVU5ykC1DnS/view?usp=sharing).
 
 ## The Scientific Method
 

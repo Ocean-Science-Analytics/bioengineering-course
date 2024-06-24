@@ -83,4 +83,4 @@ This course is supported as part of a National Science Foundation grant awarded 
 
 Expanding Your Horizons of San Diego is supporting the course implementation and connecting with 10th and 11th-grade students throughout San Diego County through our [EYH Cafe](https://eyhsandiego.org/eyh-cafe/) program. We are so thrilled to be able to connect our participants with this unique opportunity!
 
-![](images/eyh_full_logo_no_net_with_tag.jpg){fig-align="center"}
+![](images/eyh_full_logo_no_net_with_tag.jpg){fig-align="center" width="376"}
