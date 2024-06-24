@@ -73,7 +73,37 @@ We are excited to have you us this week for our course that combines engineering
 
 ## Your Instructors
 
-Instructor Bio & Pic (and email?)
+**Cassondra Williams**: Cassondra’s work focuses on understanding baseline physiology in diving animals and how physiological responses are altered from natural or anthropogenic disturbances. Her past work includes investigating cardiovascular responses to routine and anthropogenic disturbances in marine and freshwater turtles. She has also studied respiratory function in diving emperor penguins and muscle and cardiovascular physiology of diving northern elephant seals after natural disturbances.
+
+![](images/clipboard-2341687151.png){width="216"}
+
+**Elliot Botvinick:** Professor Botvinick's BEAMS laboratory leverages photons and chemistry for biophysical investigations of tissue as well as continuous monitoring for analytes in diabetes and trauma.
+
+![](images/clipboard-3604513780.png){width="220"}
+
+**Mark Keating**:
+
+![](images/clipboard-1320316539.png)
+
+**John Weilding**:
+
+![](images/clipboard-3215812680.png)
+
+**Emma Caudill** (ecaudill\@uci.edu): Emma Caudill is a second year Ph.D. candidate in the biomedical engineering program at UCI. She is conducting research on the multi-analyte sensor in the BEAMS lab.
+
+![](images/clipboard-4243913981.png){width="223"}
+
+**Toni Wilkinson**:
+
+![](images/clipboard-2047472110.png){width="229"}
+
+**Machiaelle Martinez**:
+
+![](images/clipboard-1196386108.png){width="229"}
+
+**Liz Ferguson** (eferguson\@oceanscienceanalytics.com): Liz Ferguson is the Chief Executive Officer for Ocean Science Analytics, an ocean science research and online technical training company. She specializes in marine mammal bioacoustic research and marine spatial ecology. She also serves as the coordinator for this summer course through her role at Expanding Your Horizons, San Diego.
+
+![](images/clipboard-3570246783.png){width="234"}
 
 ## Course Sponsors & Organizers
 
