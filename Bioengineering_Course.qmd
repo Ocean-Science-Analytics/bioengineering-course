@@ -73,15 +73,15 @@ We are excited to have you us this week for our course that combines engineering
 
 ## Your Instructors
 
-**Cassondra Williams**: Cassondra’s work focuses on understanding baseline physiology in diving animals and how physiological responses are altered from natural or anthropogenic disturbances. Her past work includes investigating cardiovascular responses to routine and anthropogenic disturbances in marine and freshwater turtles. She has also studied respiratory function in diving emperor penguins and muscle and cardiovascular physiology of diving northern elephant seals after natural disturbances.
+**Cassondra Williams** (cassondw\@uci.edu): Cassondra’s work focuses on understanding baseline physiology in diving animals and how physiological responses are altered from natural or anthropogenic disturbances. Her past work includes investigating cardiovascular responses to routine and anthropogenic disturbances in marine and freshwater turtles. She has also studied respiratory function in diving emperor penguins and muscle and cardiovascular physiology of diving northern elephant seals after natural disturbances.
 
 ![](images/clipboard-2341687151.png){width="216"}
 
-**Elliot Botvinick:** Professor Botvinick's BEAMS laboratory leverages photons and chemistry for biophysical investigations of tissue as well as continuous monitoring for analytes in diabetes and trauma.
+**Elliot Botvinick** (ebotvini\@uci.edu)**:** Dr. Botvinick's lab focuses on biophotonics in the fields of mechanobiology and medical device development. They have developed a sensing platform specifically designed for simultaneous continuous measurement of multiple analytes. The also develop embodiments for diabetes management and trauma, hemorrhagic shock, sepsis, and pulmonary injury.
 
-![](images/clipboard-3604513780.png){width="220"}
+![](images/clipboard-1310532734.png)
 
-**Mark Keating**:
+**Mark Keating** (keatingm\@hs.uci.edu)
 
 ![](images/clipboard-1320316539.png)
 
@@ -93,11 +93,11 @@ We are excited to have you us this week for our course that combines engineering
 
 ![](images/clipboard-4243913981.png){width="223"}
 
-**Toni Wilkinson**:
+**Toni Wilkinson** (twilkin1\@uci.edu)
 
 ![](images/clipboard-2047472110.png){width="229"}
 
-**Machiaelle Martinez**:
+**Machiaelle Martinez** (machiadm\@uci.edu)
 
 ![](images/clipboard-1196386108.png){width="229"}
 
