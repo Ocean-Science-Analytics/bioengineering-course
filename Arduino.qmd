@@ -7,9 +7,9 @@ format: html
 
 Today you will learn how to use the Xiao nRF52 microcontroller to program in Arduino IDE and control the circuits you built in the previous lesson. You will understand how coding integrates with hardware to create interactive electronic projects. This hands-on experience will enhance your ability to design and implement complex electronic systems.
 
-### Activity Resources: 
+### Activity Resources:
 
-#### Testing your setup: 
+#### Testing your setup:
 
 ![](images/clipboard-892098142.png)
 
@@ -47,7 +47,7 @@ References:
 
 In this exercise, you will learn how to implement serial communication with the Xiao nRF52 microcontroller to send commands and receive responses. You will see a demonstration of real-time interaction between a computer and a microcontroller using a command-and-response framework. This will enhance your understanding of communication protocols and their applications in interactive electronic projects.
 
-### Activity Resources: 
+### Activity Resources:
 
 #### Using Serial.print and Serial.println to Send Data
 
