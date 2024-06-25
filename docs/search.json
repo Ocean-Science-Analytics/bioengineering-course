@@ -330,5 +330,15 @@
     "crumbs": [
       "Day 3: Arduino & Coding"
     ]
+  },
+  {
+    "objectID": "Fundamentals.html#key-concepts-of-electricity-and-circuit-breadboarding-test",
+    "href": "Fundamentals.html#key-concepts-of-electricity-and-circuit-breadboarding-test",
+    "title": "Electricity, Circuitry & Soldering",
+    "section": "",
+    "text": "In this exercise, you will gain a deeper understanding of key electricity concepts and practical experience in circuit breadboarding. By building and testing electrical circuits, you will enhance your problem-solving skills and ability to troubleshoot real-world electrical systems. This hands-on approach will solidify your theoretical knowledge and prepare you for more advanced applications.\nActivity Resources:\n\n\n\nReferences:\n\nLessons in Electric Circuits - Volume 1 (Direct Currents)\nLessons in Electric Circuits - Volume 2 (Alternating Currents)\nLessons in Electric Circuits - Volume 3 (Semiconductors)\nLessons in Electric Circuits - Volume 4 (Digital)\nLessons in Electric Circuits - Volume 5 (Reference)",
+    "crumbs": [
+      "Day 2: Electricity & Soldering"
+    ]
   }
 ]

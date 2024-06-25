@@ -3,7 +3,7 @@ title: "Electricity, Circuitry & Soldering"
 format: html
 ---
 
-## Key Concepts of Electricity and Circuit Breadboarding
+## Key Concepts of Electricity and Circuit Breadboarding TEST
 
 In this exercise, you will gain a deeper understanding of key electricity concepts and practical experience in circuit breadboarding. By building and testing electrical circuits, you will enhance your problem-solving skills and ability to troubleshoot real-world electrical systems. This hands-on approach will solidify your theoretical knowledge and prepare you for more advanced applications.
 
