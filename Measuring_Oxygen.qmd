@@ -25,6 +25,7 @@ In this project, you will develop a system to measure the oxygen consumption of 
 
 Activity Resources:
 
+-   [Scientific Investigations](https://drive.google.com/file/d/1VxwS43iLNfmlDRqQ8AczWFjmiRtCjZ7I/view?usp=sharing)
 -   [Animal Energetics](https://drive.google.com/file/d/1U2pH7BtwrHkYU36CzU7gfjyTT6UyDaMR/view?usp=sharing)
 
 References:
