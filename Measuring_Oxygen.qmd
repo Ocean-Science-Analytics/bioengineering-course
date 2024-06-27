@@ -7,15 +7,11 @@ format: html
 
 Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.
 
-### Activity Resources: 
+### Activity Resources:
 
 #### Circuit Assembly
 
 ![](images/clipboard-2779319048.png)
-
-References:
-
--   
 
 ## Project Development & Implementation
 
@@ -24,6 +20,7 @@ In this project, you will develop a system to measure the oxygen consumption of 
 Activity Resources:
 
 -   [Animal Energetics](https://drive.google.com/file/d/1U2pH7BtwrHkYU36CzU7gfjyTT6UyDaMR/view?usp=sharing)
+-   [Scientific Investigations](https://drive.google.com/file/d/1VxwS43iLNfmlDRqQ8AczWFjmiRtCjZ7I/view?usp=sharing)
 
 References:
 

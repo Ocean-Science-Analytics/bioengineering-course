@@ -266,7 +266,7 @@
     "href": "Measuring_Oxygen.html",
     "title": "Oxygen Measurement with Your Instrument",
     "section": "",
-    "text": "Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.\n\n\n\n\n\nReferences:",
+    "text": "Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.",
     "crumbs": [
       "Day 4: Measuring Oxygen"
     ]
@@ -276,7 +276,7 @@
     "href": "Measuring_Oxygen.html#measuring-oxygen-levels-with-xiao-nrf52-and-porphyrin-dyes",
     "title": "Oxygen Measurement with Your Instrument",
     "section": "",
-    "text": "Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.\n\n\n\n\n\nReferences:",
+    "text": "Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dyes to measure oxygen levels using a transimpedance operational amplifier (op amp) circuit and an LED. This hands-on practice will enhance your skills in combining microcontroller programming with chemical sensors for practical applications. Understanding this integration will prepare you for advanced projects in environmental monitoring and sensor technology.",
     "crumbs": [
       "Day 4: Measuring Oxygen"
     ]
@@ -286,7 +286,7 @@
     "href": "Measuring_Oxygen.html#project-development-implementation",
     "title": "Oxygen Measurement with Your Instrument",
     "section": "Project Development & Implementation",
-    "text": "Project Development & Implementation\nIn this project, you will develop a system to measure the oxygen consumption of mealworms. You will design, implement, and report on your study to the group.\nActivity Resources:\n\nAnimal Energetics\n\nReferences:",
+    "text": "Project Development & Implementation\nIn this project, you will develop a system to measure the oxygen consumption of mealworms. You will design, implement, and report on your study to the group.\nActivity Resources:\n\nAnimal Energetics\nScientific Investigations\n\nReferences:",
     "crumbs": [
       "Day 4: Measuring Oxygen"
     ]
