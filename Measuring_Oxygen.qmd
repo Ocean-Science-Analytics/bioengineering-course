@@ -13,6 +13,12 @@ Today you will learn how to use the Xiao nRF52 microcontroller and porphyrin dye
 
 ![](images/clipboard-2779319048.png)
 
+### References:
+
+-   [Racial Bias in Pulse Oximetry Measurement](https://drive.google.com/file/d/12wFBgHsnXHwHHjvq4h9x7szCiWOsSnGj/view?usp=sharing)
+
+-   [How oxygen quenches the dye](https://drive.google.com/file/d/1B31wn0eqrYTXJlzaJ1cAhrvddZaYsUvA/view?usp=sharing)
+
 ## Project Development & Implementation
 
 In this project, you will develop a system to measure the oxygen consumption of mealworms. You will design, implement, and report on your study to the group.
@@ -20,7 +26,6 @@ In this project, you will develop a system to measure the oxygen consumption of 
 Activity Resources:
 
 -   [Animal Energetics](https://drive.google.com/file/d/1U2pH7BtwrHkYU36CzU7gfjyTT6UyDaMR/view?usp=sharing)
--   [Scientific Investigations](https://drive.google.com/file/d/1VxwS43iLNfmlDRqQ8AczWFjmiRtCjZ7I/view?usp=sharing)
 
 References:
 
