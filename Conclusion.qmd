@@ -2,3 +2,7 @@
 title: "Course Conclusion"
 format: html
 ---
+
+Thank you so much for participating in the STEM Summer Course!! We hope you have enjoyed your week while learning about bioengineering. Please take a few minutes to complete our [post-course survey](https://forms.gle/fxUz7i7e7xDP4wCj8).
+
+Have a great rest of your summer!
